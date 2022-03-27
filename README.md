@@ -7,3 +7,9 @@ They are currently divided in two main categories:
 * **other:** External datasets
 
 In all cases, the data is never uploaded so cloning the repo doesn't directly make the notebooks reproducible because for each project the `data/` folder is missing.
+
+## Note on GitHub-displayed Notebooks
+
+The GitHub display for Jupyter Notebooks has trouble showing some outputs, e.g. anything that goes through print. Thus, I highly recommend you copy the link of the notebook and instead use [Jupyter's NBViewer](https://nbviewer.org/) to render them correctly.
+
+For example, [this](https://nbviewer.org/github/martinerrazquin/old_projects/blob/main/other/meli2021/base_estimators.ipynb) is how the MeLi 2021 `base_estimators.ipynb` actually looks like.
