@@ -6,7 +6,7 @@ This is a dump from a Kaggle kernel for the [Titanic - Machine Learning from Dis
 
 ### Titanic1
 
-This notebooks achieves a decent public leaderboard score of around $0.7511$ (accuracy), although there was no heavy focus in leaderboard-score-oriented model tuning nor feature engineering. It instead emphasizes usage of different libraries such as:
+This notebook achieves a decent public leaderboard score of around $0.7511$ (accuracy), although there was no heavy focus in leaderboard-score-oriented model tuning nor feature engineering. It instead emphasizes usage of different libraries such as:
 
 * *Matplotlib/Seaborn* for different insightful plots during EDA.
 * *Pandas* for data analysis and manipulation.
